@@ -1,2 +1,2 @@
 # my-leet
-1 strings
+1. strings
